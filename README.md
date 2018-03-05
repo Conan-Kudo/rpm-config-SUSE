@@ -1,3 +1,3 @@
-# rpm-config-SUSE
+# MOVED to openSUSE
 
-This repository contains the RPM configuration data for the SUSE Linux distribution family.
+This repository has been moved to the [openSUSE GitHub organization](https://github.com/openSUSE/rpm-config-SUSE).
